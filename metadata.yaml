@@ -1,0 +1,31 @@
+_repo: Mythen-en-sagen-uit-West-Indie_72126
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Backer, Willem
+    gutenberg_agent_id: '56551'
+    url: http://www.gutenberg.org/2009/agents/56551
+creator:
+  author:
+    agent_name: Cappelle, Herman van
+    gutenberg_agent_id: '56550'
+    url: http://www.gutenberg.org/2009/agents/56550
+description: ''
+gutenberg_issued: '2023-11-14'
+identifiers:
+  gutenberg: '72126'
+language: nl
+pgterms:marc905: 20221015134131vancappell
+pgterms:marc906: '1926'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg. With special thanks to Jude Eylander
+  and others for the music transcription.
+publication_note: '  $aZutphen :$bW. J. Thieme & Cie., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mythen en sagen uit West-Indië
+url: http://www.gutenberg.org/ebooks/72126
