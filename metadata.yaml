@@ -5,12 +5,17 @@ contributor:
     agent_name: Backer, Willem
     gutenberg_agent_id: '56551'
     url: http://www.gutenberg.org/2009/agents/56551
+covers:
+- cover_type: archival
+  image_path: 72126-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Cappelle, Herman van
     gutenberg_agent_id: '56550'
     url: http://www.gutenberg.org/2009/agents/56550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72126#Mythen-en-sagen-uit-West-Indie
 gutenberg_issued: '2023-11-14'
 identifiers:
   gutenberg: '72126'
